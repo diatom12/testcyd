@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Cypress cache
+.cypress/
+
+# Cypress videos and screenshots (custom paths)
+tests/cypressTests/cypress/videos/
+tests/cypressTests/cypress/screenshots/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

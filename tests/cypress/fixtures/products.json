@@ -1,0 +1,33 @@
+{
+  "onesie": {
+    "id": "2",
+    "url": "inventory-item.html?id=2",
+    "name": "Sauce Labs Onesie",
+    "description": "Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel."
+  },
+  "light": {
+    "id": "0",
+    "url": "inventory-item.html?id=0",
+    "name": "Sauce Labs Bike Light"
+  },
+  "tshirt": {
+    "id": "1",
+    "url": "inventory-item.html?id=1",
+    "name": "Sauce Labs Bolt T-Shirt"
+  },
+  "jacket": {
+    "id": "5",
+    "url": "inventory-item.html?id=5",
+    "name": "Sauce Labs Fleece Jacket"
+  },
+  "red": {
+    "id": "3",
+    "url": "inventory-item.html?id=3",
+    "name": "Test.allTheThings() T-Shirt (Red)"
+  },
+  "backpack": {
+    "id": "4",
+    "url": "inventory-item.html?id=4",
+    "name": "Sauce Labs Backpack"
+  }
+}
