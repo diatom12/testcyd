@@ -1,0 +1,35 @@
+{
+  "default": {
+    "loginMessage": "login",
+    "errorLoginMessage": "Epic sadface: Username is required",
+    "errorLoginMessageLocked": "Epic sadface: Sorry, this user has been locked out.",
+    "usernamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "loginButton": "Login",
+    "credentialsSection": "Accepted usernames are:",
+    "passwordSection": "Password for all users:",
+    "headerName": "Swag Labs",
+    "secondHeaderText": "Products",
+    "qtyInCart": "QTY",
+    "continueShoppingBtn": "Continue Shopping",
+    "checkoutBtn": "Checkout",
+    "cartDescription": "Description",
+    "checkoutHeaderText": "Checkout: Your Information",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "postalCodePlaceholder": "Zip/Postal Code",
+    "checkoutStepTwoHeader": "Checkout: Overview",
+    "paymentinfoHeader": "Payment Information:",
+    "shippinginfoHeader": "Shipping Information:",
+    "paymentvalue": "SauceCard #31337",
+    "shippingvalue": "Free Pony Express Delivery!",
+    "totalPricetext": "Price Total",
+    "azValue": "Name (A to Z)",
+    "zaValue": "Name (Z to A)",
+    "lowToHighValue": "Price (low to high)",
+    "highToLowValue": "Price (high to low)"
+  },
+  "sk": {
+    "loginMessage": "Prihlásiť sa"
+  }
+}
